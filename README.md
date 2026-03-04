@@ -5,5 +5,3 @@ Big fan of the C language family (C, C++, C#) because I enjoy having just enough
 Time management is… theoretical. I’ll optimize something that isn’t even in production yet. But when a project clicks, I lock in hard.
 
 Mostly here to learn, build cool stuff, and slowly turn side projects into something real.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanSolo1000Falcon&layout=compact&theme=dark)
