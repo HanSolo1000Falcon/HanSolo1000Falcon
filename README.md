@@ -6,4 +6,4 @@ Time management is… theoretical. I’ll optimize something that isn’t even i
 
 Mostly here to learn, build cool stuff, and slowly turn side projects into something real.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HanSolo1000Falcon&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanSolo1000Falcon&layout=compact&theme=dark)
