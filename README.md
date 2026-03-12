@@ -3,6 +3,7 @@
 <p>Big fan of the C language family (C, C++, C#) because I enjoy having just enough control to break everything myself. I spend a lot of time messing with Web APIs, backend logic, and systems stuff that probably didn’t need to be reinvented but now exists anyway.</p>
 <p>Time management is… theoretical. I’ll optimize something that isn’t even in production yet. But when a project clicks, I lock in hard.</p>
 <p>Mostly here to learn, build cool stuff, and slowly turn side projects into something real.</p>
+<p>Used to make unity mods with BepInEx, also how I got into programming. But the interest fizzled out for various reasons.</p>
 
 <h2><b>Tech Stack</b></h2>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">  
