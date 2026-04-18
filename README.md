@@ -27,3 +27,12 @@ Used to make unity mods with BepInEx, also how I got into programming. But the i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" height="40" alt="lua" />
 </p>
+
+## 📊 Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=HanSolo1000Falcon&show_icons=true&theme=dark" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanSolo1000Falcon&layout=compact&theme=dark" />
+</p>
