@@ -30,9 +30,9 @@ Used to make unity mods with BepInEx, also how I got into programming. But the i
 
 ## 📊 Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=HanSolo1000Falcon&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=HanSolo1000Falcon&show_icons=true&theme=dark" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanSolo1000Falcon&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HanSolo1000Falcon&layout=compact&theme=dark" />
 </p>
