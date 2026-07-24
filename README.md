@@ -1,23 +1,16 @@
-# 👋 Hello! I'm HanSolo1000Falcon  
-*(aka falcon1k for some reason?)*
+# Hello! I'm HanSolo1000Falcon/Falcon1K!
 
 ---
 
-## 🧠 About Me
+## About Me
 
-Hobbyist programmer who somehow always has three projects open and zero finished. I like building things just to figure out how they work, then rebuilding them “better” instead of shipping.  
-
-Big fan of the C language family (C, C++, C#) because I enjoy having just enough control to break everything myself. I spend a lot of time messing with Web APIs, backend logic, and systems stuff that probably didn’t need to be reinvented but now exists anyway.  
-
-Time management is… theoretical. I’ll optimize something that isn’t even in production yet. But when a project clicks, I lock in hard.  
-
-Mostly here to learn, build cool stuff, and slowly turn side projects into something real.  
-
-Used to make unity mods with BepInEx, also how I got into programming. But the interest fizzled out for various reasons.
+Hobbbyist programmer into low level stuff.
+Started out with Roblox in 2020-ish and it snowballed into this!
+Loves programming, road cycling, eating food, playing balatro, and sleeping.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="c" />
@@ -30,7 +23,7 @@ Used to make unity mods with BepInEx, also how I got into programming. But the i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" height="40" alt="lua" />
 </p>
 
-## 📊 Stats
+## Stats
 <p>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=HanSolo1000Falcon&show_icons=true&theme=dark" />
 </p>
