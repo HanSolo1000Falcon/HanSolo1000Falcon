@@ -5,7 +5,9 @@
 ## About Me
 
 Hobbbyist programmer into low level stuff.
+
 Started out with Roblox in 2020-ish and it snowballed into this!
+
 Loves programming, road cycling, eating food, playing balatro, and sleeping.
 
 ---
