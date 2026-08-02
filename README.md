@@ -1,7 +1,5 @@
 # Hello! I'm HanSolo1000Falcon/Falcon1K!
 
----
-
 ## About Me
 
 Hobbbyist programmer into low level stuff.
