@@ -29,5 +29,5 @@ Loves programming, road cycling, eating food, playing balatro, and sleeping.
 </p>
 
 <p>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HanSolo1000Falcon&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HanSolo1000Falcon&layout=compact&theme=dark&exclude_repo=.config" />
 </p>
